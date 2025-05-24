@@ -1,3 +1,3 @@
-tinhte.vn
-vnexpress.net
-dantri.com.vn
+0.0.0.0 tinhte.vn
+0.0.0.0 vnexpress.net
+0.0.0.0dantri.com.vn
